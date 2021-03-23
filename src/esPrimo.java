@@ -1,3 +1,4 @@
+//Verificar si un numero es primo
 import java.util.Scanner;
 public class esPrimo {
     public static void main(String[] args)
